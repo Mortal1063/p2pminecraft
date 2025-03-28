@@ -1,0 +1,3 @@
+name: p2pminecraft
+version: '${project.version}'
+main: org.ggzzll.p2pminecraft.Bukkit.p2pminecraft
